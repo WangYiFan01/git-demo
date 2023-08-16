@@ -7,8 +7,6 @@ shanghengREPLACEREPLACEREPLACE
 shanghengREPLACEREPLACEREPLACE:x:wqZZ:w
 11111
 88888888
-<<<<<<< HEAD
 master
-=======
 hot-fix
->>>>>>> hot-fix
+hot-fix
